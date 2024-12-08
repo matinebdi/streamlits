@@ -54,3 +54,7 @@ Ce projet est une application Streamlit qui permet de manipuler des datasets, de
    Vous pouvez installer les dépendances avec la commande :
    ```bash
    pip install streamlit pandas seaborn matplotlib
+
+
+   ![image](https://github.com/user-attachments/assets/e20348e4-aa35-4fce-b4fa-08399a6d1cd2)
+
